@@ -12,7 +12,7 @@ const Main = () => {
                 <form className="create">
                     <input className="create-input" type="text" placeholder="Room name" value={roomId} onChange={(event) => setRoom(event.target.value)} />
                     <input className="create-input" type="text" placeholder="Nickname" value={nick} onChange={(event) => setNick(event.target.value)} />
-                    <input className="create-button" type="submit" value="Создать 👍" />
+                    <input className="create-button" type="submit" value="сreate!!1" />
                 </form>
             </div>
         </div>
